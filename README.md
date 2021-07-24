@@ -9,7 +9,7 @@
 
 [rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
 
-This is a app that let's the user play a game of true or false. It can be workedon and made into a full fledged app.
+This is a app that let's the user play a game of true or false. It can be worked on and made into a full fledged app.
 
 
 
